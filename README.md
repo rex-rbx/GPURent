@@ -1,0 +1,2 @@
+saw a Microsoft patent for renting GPU's so now i am making a wss based GPU-splitting server. But instead of using it for training its for training AND model running. all the running is split across loads of GPU's so they all contribute. meant for people to put into software BUT the software should ask them to consent and could be used to PAY for GPU access.
+automatically disables temporarily if games are running or if GPU temp goes high.
